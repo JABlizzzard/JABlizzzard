@@ -3,4 +3,6 @@
 - ✨ My name is Judd Aldwin Lizarda
 - 🖥 I’m currently studying Computer Science @ University of Rhode Island
 - 😄 Pronouns: He/Him
-- ⚡ Fun facts: I like to play video games
+- ⚡ Fun facts:
+  - 🎮 I like to play video games
+  - 🎮 I am interested in video game development and web development
